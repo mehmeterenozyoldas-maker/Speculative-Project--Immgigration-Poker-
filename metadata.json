@@ -1,0 +1,5 @@
+{
+  "name": "World Happiness Visualizer",
+  "description": "An interactive data visualization of the World Happiness Report 2024 using native Canvas API and Gemini AI for happiness insights.",
+  "requestFramePermissions": []
+}
